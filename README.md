@@ -37,7 +37,3 @@ Gelecek Kariyer Hedefleri
 Linkler
 - Kaggle Dataset: [Intel Image Classification](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)  
 - Kaggle Notebook: [intel-multiclass-akbank](https://www.kaggle.com/code/sedanazdolu/intel-multiclass-akbank/edit)
-
-Lisans
-MIT License
-
